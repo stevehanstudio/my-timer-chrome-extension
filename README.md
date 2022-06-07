@@ -6,7 +6,7 @@ A simple timer Chrome extension based on my personal usage.
 
 Javascript, React, Typescript, Webpack, Chrome Extension
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="24" height="24px" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="24" height="24px" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="24" height="24px" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="24" height="24px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="24" height="24px" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="24" height="24px" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="24" height="24px" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="24" height="24px" />
 
 ## Getting Started
 
@@ -26,4 +26,4 @@ Udemy course on Chrome Extension instructed by Jason Xian
 [https://www.udemy.com/course/chrome-extension/](https://www.udemy.com/course/chrome-extension/)
 
 Boilerplate from the course above for building Chrome Extensions in React and TypeScript using a Webpack build process.
-[https://www.udemy.com/course/chrome-extension/](https://github.com/JasonXian/react-chrome-extension-boilerplate)
+[https://github.com/JasonXian/react-chrome-extension-boilerplate](https://github.com/JasonXian/react-chrome-extension-boilerplate)
