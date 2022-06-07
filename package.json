@@ -1,12 +1,12 @@
 {
-  "name": "react-chrome-extension",
+  "name": "my-timer-chrome-extension",
   "version": "1.0.0",
-  "description": "react chrome extension template",
+  "description": "A simple timer based on my usage",
   "scripts": {
     "start": "webpack --watch --progress --config webpack.dev.js",
     "build": "webpack --watch --progress --config webpack.prod.js"
   },
-  "author": "",
+  "author": "Steve Han",
   "devDependencies": {
     "@types/chrome": "^0.0.181",
     "@types/react": "^18.0.6",
@@ -14,6 +14,7 @@
     "clean-webpack-plugin": "^3.0.0",
     "copy-webpack-plugin": "^7.0.0",
     "css-loader": "^5.2.4",
+    "fontsource-roboto": "^4.0.0",
     "html-webpack-plugin": "^4.5.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",

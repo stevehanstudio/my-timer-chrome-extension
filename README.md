@@ -1,6 +1,16 @@
-# React Chrome Extension Boilerplate
+# My Timer
 
-Boilerplate for building Chrome Extensions in React and TypeScript using a simple Webpack build process.
+A simple timer Chrome extension based on my usage.
+
+## Languages and Tools
+
+Javascript, React, Typescript, Material UI, Webpack, Chrome Extension
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="24" height="24px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="24" height="24px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="24" height="24px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="24" height="24px" />
+<img src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" width="24" height="24px" />
 
 ## Getting Started
 
@@ -33,3 +43,11 @@ Boilerplate for building Chrome Extensions in React and TypeScript using a simpl
 - Folders get flattened, static references to images from HTML do not need to be relative (i.e. `icon.png` instead of `../static/icon.png`)
 - Importing local ts/tsx/css files should be relative, since Webpack will build a dependancy graph using these paths
 - Update the manifest file as per usual for chrome related permissions, references to files in here should also be flattened and not be relative
+
+## Resources
+
+Udemy course on Chrome Extension instructed by Jason Xian
+[https://www.udemy.com/course/chrome-extension/](https://www.udemy.com/course/chrome-extension/)
+
+Boilerplate from the course above for building Chrome Extensions in React and TypeScript using a Webpack build process.
+[https://www.udemy.com/course/chrome-extension/](https://github.com/JasonXian/react-chrome-extension-boilerplate)

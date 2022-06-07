@@ -1,6 +1,6 @@
 {
-  "name": "React Extension",
-  "description": "Chrome Extension in React!",
+  "name": "My Timer",
+  "description": "Chrome Extension of My Timer...a simple timer based on my usage",
   "version": "1.0.0",
   "manifest_version": 3,
   "icons": {
